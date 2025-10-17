@@ -1,0 +1,254 @@
+{
+  "nav": {
+    "destinations": "Destinations",
+    "services": "Services",
+    "why": "Why KEYVISA",
+    "testimonials": "Stories",
+    "contact": "Contact",
+    "privacy": "Privacy",
+    "terms": "Terms"
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  },
+  "common": {
+    "ctaTalk": "Talk to Kseniia",
+    "ctaTelegram": "Message on Telegram",
+    "name": "Name",
+    "message": "Message",
+    "send": "Send"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Personal Visa Consulting",
+      "title": "Confident travel starts with the right visa.",
+      "subtitle": "Tailored guidance for Russian citizens traveling to Asia, the Middle East, the Balkans, and Schengen via third countries.",
+      "imageAlt": "Visa consulting hero image"
+    },
+    "destinations": {
+      "eyebrow": "Popular destinations",
+      "title": "Where I help clients every day",
+      "subtitle": "Requirements change often \u2014 I keep them straight and make your path clear.",
+      "items": {
+        "thailand": {
+          "title": "Thailand",
+          "alt": "Thailand visa help"
+        },
+        "vietnam": {
+          "title": "Vietnam",
+          "alt": "Vietnam visa help"
+        },
+        "india": {
+          "title": "India",
+          "alt": "India visa help"
+        },
+        "china": {
+          "title": "China",
+          "alt": "China visa help"
+        },
+        "bali": {
+          "title": "Bali (Indonesia)",
+          "alt": "Indonesia visa help"
+        },
+        "schengen": {
+          "title": "Schengen (via third countries)",
+          "alt": "Schengen guidance"
+        }
+      }
+    },
+    "services": {
+      "eyebrow": "What visas can I help with?",
+      "title": "Services",
+      "subtitle": "I provide practical step\u2011by\u2011step instructions and document checks.",
+      "items": {
+        "tourist": {
+          "title": "Tourist visas",
+          "desc": "Clear document lists, online forms, appointment prep."
+        },
+        "student": {
+          "title": "Student visas",
+          "desc": "Admissions timing, financial proof, residence permits."
+        },
+        "business": {
+          "title": "Business & digital nomad",
+          "desc": "Invitations, remote work options, long\u2011stay solutions."
+        },
+        "transit": {
+          "title": "Transit & layovers",
+          "desc": "Airport transit rules and connecting through sensitive hubs."
+        },
+        "family": {
+          "title": "Family & reunion",
+          "desc": "Marriage certificates, birth docs, translations & apostilles."
+        },
+        "vip": {
+          "title": "Case review",
+          "desc": "Risk assessment for complex histories or previous refusals."
+        }
+      }
+    },
+    "why": {
+      "eyebrow": "Why people choose Kseniia",
+      "title": "Expert help, without stress",
+      "points": [
+        {
+          "title": "Current rules, not rumors",
+          "desc": "I monitor official sources and consulate updates daily."
+        },
+        {
+          "title": "Personal approach",
+          "desc": "No templates; we adapt to your purpose, timeline, and route."
+        },
+        {
+          "title": "Clear outcomes",
+          "desc": "You get checklists, examples, and a confident submission."
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Real stories",
+      "title": "Feedback from clients",
+      "items": [
+        {
+          "quote": "We got our Thai long\u2011stay on the first try. Super clear guidance!",
+          "name": "Oleg & Marina",
+          "meta": "Bangkok route"
+        },
+        {
+          "quote": "Schengen via third country worked perfectly. Zero stress.",
+          "name": "Artyom",
+          "meta": "Portugal consulate"
+        },
+        {
+          "quote": "From documents to interview \u2014 precise and reliable.",
+          "name": "Nastya",
+          "meta": "Student visa"
+        }
+      ]
+    },
+    "faq": {
+      "title": "Frequently asked questions",
+      "subtitle": "Short answers to most common questions. For your case \u2014 write to me.",
+      "items": [
+        {
+          "q": "Do you guarantee visa approval?",
+          "a": "No one can guarantee approval. I maximize your chances by aligning your case with official requirements and common consulate practice."
+        },
+        {
+          "q": "Can you submit documents for me?",
+          "a": "I advise and prepare you. Submission and biometrics are done by you or an authorized visa center per local rules."
+        },
+        {
+          "q": "Do you work only with Russians?",
+          "a": "I primarily help Russian citizens, but I can advise other CIS nationals on request."
+        },
+        {
+          "q": "How do we start?",
+          "a": "Send a short description of your route and dates on Telegram. I\u2019ll offer a slot and a fixed\u2011price quote."
+        }
+      ]
+    },
+    "contact": {
+      "eyebrow": "Contact",
+      "title": "Write to me",
+      "subtitle": "Tell me your route and timing \u2014 I\u2019ll suggest options and the next steps.",
+      "formAria": "Contact form",
+      "directTitle": "Write directly",
+      "directText": "The fastest way is Telegram. Email works too.",
+      "noteTitle": "Important",
+      "noteText": "Visa rules change frequently. I work with official sources and share links so you can verify everything yourself."
+    }
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "intro": {
+      "h": "1. Introduction",
+      "p": "This policy explains how KEYVISA processes personal data in the course of visa consulting. We comply with applicable laws, including Federal Law No. 152\u2011FZ on Personal Data and, where relevant, the GDPR."
+    },
+    "controller": {
+      "h": "2. Controller",
+      "p": "Controller: KEYVISA (sole proprietor). Contact: hello@keyvisa.co. Purpose: visa consulting and related communications."
+    },
+    "data": {
+      "h": "3. What data we process",
+      "p": "Identification data (name, date of birth, passport details), contact data (email, Telegram), travel plans, supporting documents (invitations, certificates), and technical data (IP, device). You should not send data we do not request."
+    },
+    "use": {
+      "h": "4. Purposes of processing",
+      "p": "Consulting on visa options, preparing checklists, assessing risks, invoicing, preventing abuse, and fulfilling legal obligations."
+    },
+    "basis": {
+      "h": "5. Legal basis",
+      "p": "Consent; performance of a contract or pre\u2011contractual steps at your request; compliance with legal obligations; and our legitimate interests (service quality and security)."
+    },
+    "retention": {
+      "h": "6. Retention",
+      "p": "We keep data only as long as necessary for the stated purposes or as required by law. You may request deletion when retention is no longer necessary."
+    },
+    "security": {
+      "h": "7. Security",
+      "p": "We apply organizational and technical measures appropriate to the risk, including access controls and encryption where possible."
+    },
+    "transfer": {
+      "h": "8. Cross\u2011border transfers",
+      "p": "If we transfer data across borders, we rely on your consent and ensure suitable safeguards. We avoid unnecessary sharing and use reputable services."
+    },
+    "rights": {
+      "h": "9. Your rights",
+      "p": "Access, rectify, erase, restrict, object, and withdraw consent. To exercise rights, email hello@keyvisa.co. We may need to verify your identity."
+    },
+    "contact": {
+      "h": "10. Contact",
+      "p": "Questions about this policy: hello@keyvisa.co."
+    },
+    "lastUpdated": "Last updated"
+  },
+  "terms": {
+    "title": "Terms & Conditions",
+    "scope": {
+      "h": "1. Scope of services",
+      "p": "KEYVISA provides visa consulting: guidance, checklists, document review, and preparation for submissions and interviews. We do not represent you before authorities unless expressly agreed in writing."
+    },
+    "notLegal": {
+      "h": "2. No guarantees or legal advice",
+      "p": "Decisions are made by consulates and visa centers. We provide best\u2011effort consulting based on official sources; no outcome can be guaranteed."
+    },
+    "clientDuties": {
+      "h": "3. Client responsibilities",
+      "p": "You provide accurate and complete information and submit documents within deadlines. You are responsible for appointments, biometrics, and travel decisions."
+    },
+    "fees": {
+      "h": "4. Fees & payment",
+      "p": "Prices are communicated upfront. Government fees and visa center charges are separate and paid by you."
+    },
+    "cancellations": {
+      "h": "5. Rescheduling & cancellations",
+      "p": "Sessions may be rescheduled by mutual agreement. Refunds follow our written policy shared before payment."
+    },
+    "liability": {
+      "h": "6. Liability",
+      "p": "To the maximum extent permitted by law, we are not liable for indirect damages or decisions by authorities."
+    },
+    "ip": {
+      "h": "7. Intellectual property",
+      "p": "Checklists and materials are for your personal use. Do not redistribute without permission."
+    },
+    "privacyRef": {
+      "h": "8. Privacy",
+      "p": "Processing of personal data is described in our Privacy Policy."
+    },
+    "governingLaw": {
+      "h": "9. Governing law",
+      "p": "These Terms are governed by applicable law at our place of business. Disputes are resolved in that jurisdiction."
+    },
+    "contact": {
+      "h": "10. Contact",
+      "p": "For questions about these Terms: hello@keyvisa.co."
+    },
+    "lastUpdated": "Last updated"
+  },
+  "error": {
+    "notFound": "The page you are looking for could not be found.",
+    "backHome": "Back to home"
+  }
+}
